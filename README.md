@@ -1,0 +1,2 @@
+# chilledbot
+Personal discord bot
